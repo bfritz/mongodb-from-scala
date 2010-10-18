@@ -16,7 +16,7 @@ Casbah Info and References:
 
  * formerly known as "mongo-scala-wrappers"
  * primary developers are Brendan McAdams and Max Afonov
- * [source](http://github.com/novus/casbah) is on (github)[http://github.com)
+ * [source](http://github.com/novus/casbah) is on [github](http://github.com)
  * license is Apache 2.0
  * inspired by [pymongo](http://api.mongodb.org/python/) for Python
  * [Documentation](http://novus.github.com/docs/casbah/sphinx/html/)

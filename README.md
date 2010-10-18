@@ -27,6 +27,10 @@ Casbah Info and References:
    of Brendan McAdams's presentation to NY Scala Enthusiasts
  * [CASE meetup](http://www.meetup.com/chicagoscala/calendar/14793832/)
    about Casbah in Chicago on Thursday, October 21st, 2010
+ * key features:
+   * allows pass-through of "bare" MongoDB queries
+   * has support for GridFS
+   * map/reduce support (without much documentation)
 
 Other Scala drivers for MongoDB:
 
@@ -40,3 +44,5 @@ Other Scala drivers for MongoDB:
     * object mapping via
      [lift-mongodb-record](http://www.assembla.com/wiki/show/liftweb/lift-mongodb-record)
     * used by Foursquare and they are working on query library
+ * Akka has [some support](http://doc.akkasource.org/persistence#MongoDB)
+   for STM backed by MongoDB
